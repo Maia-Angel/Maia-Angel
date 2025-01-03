@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently working on factors of the behavior change during first years of the COVID-19 pandemic.
+🌱 I’m currently learning python and public health.
+👯 I’m looking to collaborate on infodemic management projects including, but not limited to, surveillance, social listening, communication, behaviour change, public health, emergency preparednes and response.
+📫 How to reach me: einfodemic(at)gmail.com 
+
 <!--
 **Maia-Angel/Maia-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
